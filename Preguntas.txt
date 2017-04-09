@@ -1,0 +1,11 @@
+Preguntas:
+- Cuántas veces se sacó la bici un día y se devolvió otro?
+- Distancias más largas/cortas recorrida en los días de frío/calor?
+- Jodido: los puntos donde más se retiran bicis y se dejan bicis, 
+  si hubo alguna influencia entre la dirección + fuerza del viento 
+  y la velocidad en la que se recorrió cierta distancia
+- En los días de mucho calor se recorren distancias más largas?
+- En los días de frío hay menos actividad de bicis? (Relación entre temperatura y cantidad de bicis alquiladas)
+- En los días días de vacaciones hay mayor cantidad de bicis
+- En qué momento del día hay menos bicis en las estaciones (mayor cantidad de bicis en uso)
+  Es igual en los días de frío que de calor?

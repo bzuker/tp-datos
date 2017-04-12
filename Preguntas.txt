@@ -1,11 +1,24 @@
 Preguntas:
-- Cuántas veces se sacó la bici un día y se devolvió otro?
-- Distancias más largas/cortas recorrida en los días de frío/calor?
-- Jodido: los puntos donde más se retiran bicis y se dejan bicis, 
-  si hubo alguna influencia entre la dirección + fuerza del viento 
-  y la velocidad en la que se recorrió cierta distancia
-- En los días de mucho calor se recorren distancias más largas?
-- En los días de frío hay menos actividad de bicis? (Relación entre temperatura y cantidad de bicis alquiladas)
-- En los días días de vacaciones hay mayor cantidad de bicis
-- En qué momento del día hay menos bicis en las estaciones (mayor cantidad de bicis en uso)
-  Es igual en los días de frío que de calor?
+¿Cuántas veces se sacó la bici un día y se devolvió otro día?
+Distancias más largas/cortas recorrida en los días de frío/calor?
+Jodido: los puntos donde más se retiran bicicletas y más se dejan bicicletas.
+Si hubo alguna influencia entre la dirección más fuerza del viento
+¿Cuál o cuáles fueron las velocidad en la que se recorrió cierta distancia
+¿En los días de mucho calor se recorren distancias más largas o más cortas?
+¿En los días de frío hay menos actividad de bicicletas? (Relación entre temperatura y cantidad de bicicletas alquiladas)
+Qué sucede con los viajes respecto de las condiciones meteorológicas?
+¿En los días días de vacaciones hay mayor cantidad de bicicletas? En dónde?
+¿En qué momento del día hay menos bicicletas en las estaciones?(mayor cantidad de bicicletas en uso)
+¿Es igual en los días de frío que de calor?
+A partir de qué temperatura se puede apreciar una disminución del uso de las bicicletas? Esta disminución está relacionada con la distancia entre estaciones también?
+¿Existe la posibilidad de que una estación no tenga muelles disponibles para las bicicletas que están por ingresar?
+¿Qué tipos y cantidad de suscripciones existen? Diferencias entre las subscripciones.
+¿Cuáles son las estaciones más populares? Y las menos populares?
+¿Cuáles son las zonas en donde se encuentran las estaciones +o- populares?
+¿En promedio con qué cantidad de docks se instala una estación nueva?
+¿Para una mismo día y rango horario existe un cambio en la temperatura para los diferentes estaciones?
+¿En qué fecha o rango de días se instalaron más estaciones?
+¿Cuál es la probabilidad de encontrar una dock ocupada? Depende del rango horario/día?
+¿En qué momento es más probable encontrar una dock ocupada? Y en qué momento es menos probable?
+¿Qué sucedió el 11/09 con los viajes en bicicleta? Y en navidad/año nuevo?
+¿Cuál es la duración promedio de los viajes? Y la distancia promedio?
